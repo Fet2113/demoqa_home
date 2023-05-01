@@ -16,3 +16,4 @@ def test_password_exist(browser):
     swag_labs_page = SwagLabs(browser)
     swag_labs_page.visit()
     assert swag_labs_page.input()
+# Опять не идет селениум(((
